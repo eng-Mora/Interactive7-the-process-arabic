@@ -27,7 +27,8 @@
 <body>
     <h1>Interactive the process Eng. Tarek Mohamed</h1>
 
-<iframe src="https://drive.google.com/file/d/1QnhN6DcEwdM_G2oxU7PWUGxTPIzSsQaJ/preview" width="640" height="480" allow="autoplay"></iframe>
+[<iframe src="https://drive.google.com/file/d/1QnhN6DcEwdM_G2oxU7PWUGxTPIzSsQaJ/preview" width="640" height="480" allow="autoplay"></iframe>
+](https://drive.google.com/file/d/1QnhN6DcEwdM_G2oxU7PWUGxTPIzSsQaJ/view?usp=sharing)
 <p class="contact-message">لو واجهتك مشكلة ابعتلي</p>
     <div class="contact-icons">
         <a href="https://www.facebook.com/mamro8529?mibextid=ZbWKwL" title="Facebook">
